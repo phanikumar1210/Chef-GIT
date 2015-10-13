@@ -7,10 +7,17 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 <title>Welcome Page</title>
+<script>
+var s=Math.random();
+alert(s)
+</script>
 </head>
 <body>
 	This is welcome from Git-Hub <% Date dt=new Date(); %>
 	<%= dt.getHours()+":"+dt.getMinutes()+":"+dt.getSeconds() %>
 	THis is modified
+	
+	sjkadasdklsakldakl
+	
 </body>
 </html>
