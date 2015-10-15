@@ -16,8 +16,6 @@ alert(s)
 	This is welcome from Git-Hub <% Date dt=new Date(); %>
 	<%= dt.getHours()+":"+dt.getMinutes()+":"+dt.getSeconds() %>	
 	welcoemememe
-	dkfakd
-	asdjlsdlalda
-	dalskdaskdkals
+	dkfakd\sdasldla
 </body>
 </html>
