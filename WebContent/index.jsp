@@ -9,12 +9,10 @@
 <title>Welcome Page</title>
 <script>
 var s=Math.random();
-alert(s)
 </script>
 </head>
 <body>
 	This is welcome from Git-Hub <% Date dt=new Date(); %>
 	<%= dt.getHours()+":"+dt.getMinutes()+":"+dt.getSeconds() %>	
-	
 </body>
 </html>
