@@ -12,7 +12,7 @@ var s=Math.random();
 </script>
 </head>
 <body>
-	This is welcome from Git-Hub dsldaklkld <% Date dt=new Date(); %>
+	This is welcome from Git-Hub Welcome to webinar <% Date dt=new Date(); %>
 	<%= dt.getHours()+":"+dt.getMinutes()+":"+dt.getSeconds() %>	
 </body>
 </html>
